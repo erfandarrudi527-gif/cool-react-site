@@ -8,3 +8,5 @@ build/
 *.rar
 *.exe
 .freebuff/
+
+__pycache__/
